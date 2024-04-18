@@ -1,0 +1,107 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using Mail.MVC.Models.Home;
+@using Mail.MVC.Models.Message;
+@model HomeViewModel
+
+<div class="container">
+    <div class="text-center mt-5">
+        <h1 class="display-4">Здравствуйте, @Model.User.Name (@Model.User.Login)</h1>
+    </div>
+
+    <div class="row justify-content-center mt-5 mb-20">
+        <div class="col-md-8">
+            @Html.Partial("~/Views/Message/_SendMessage.cshtml", new SendMessageModel { SenderId = Model.User.Id })
+
+            <div>
+                <h2>Фильтры:</h2>
+                <form asp-controller="Home" asp-action="FilterMessages" id="filterForm">
+                    <div class="form-group">
+                        <label for="senderLogin">Логин отправителя:</label>
+                        <input type="text" class="form-control" id="senderLogin" name="senderLogin">
+                    </div>
+                    <div class="form-group">
+                        <label for="startDate">Дата начала:</label>
+                        <input type="date" class="form-control" id="startDate" name="startDate">
+                    </div>
+                    <div class="form-group">
+                        <label for="endDate">Дата окончания:</label>
+                        <input type="date" class="form-control" id="endDate" name="endDate">
+                    </div>
+                    <div class="form-group mb-10">
+                        <label for="status">Статус:</label>
+                        <select class="form-control" id="status" name="status">
+                            <option value="all">Все</option>
+                            <option value="unread">Непрочитанные</option>
+                        </select>
+                    </div>
+                    <button type="submit" class="btn btn-primary" >Применить фильтры</button>
+                    <button type="reset" class="btn btn-secondary" >Сбросить фильтры</button>
+                </form>
+            </div>
+
+            @if (Model.Messages != null && Model.Messages.Any())
+            {
+                <div id="messagesContainer">
+                    <h2>Сообщения:</h2>
+                    <ul class="list-group">
+                        @foreach (var message in Model.Messages)
+                        {
+                            @Html.Partial("~/Views/Message/_Message.cshtml", message)
+                        }
+                    </ul>
+                </div>
+            }
+            else
+            {
+                <p>У вас нет сообщений.</p>
+            }
+        </div>
+    </div>
+</div>
+<script>
+    function applyFilters() {
+        $('#filterForm').submit();
+    }
+
+    function resetFilters() {
+        $('#filterForm')[0].reset();
+        applyFilters(); // Применить фильтры после сброса
+    }
+</script>
+ <script>
+     function applyFilters() {
+         var senderLogin = $('#senderLogin').val();
+         var startDate = $('#startDate').val();
+         var endDate = $('#endDate').val();
+         var status = $('#status').val();
+
+         $.ajax({
+             url: '@Url.Action("FilterMessages", "Home")',
+             type: 'POST',
+             data: {
+                 senderLogin: senderLogin,
+                 startDate: startDate,
+                 endDate: endDate,
+                 status: status
+             },
+             error: function (xhr, status, error) {
+                 console.error(xhr.responseText);
+             }
+         });
+     }
+
+     function resetFilters() {
+         $.ajax({
+             url: '@Url.Action("Index", "Home")', // Путь к методу контроллера
+             type: 'GET', // Или 'GET', в зависимости от вашего метода контроллера
+         });
+     }
+ </script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- JS Bootstrap -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+

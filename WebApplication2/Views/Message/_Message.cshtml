@@ -1,0 +1,51 @@
+﻿@using Mail.MVC.Models.Message
+@model MessageViewModel
+@{
+    string listItemClass = Model.IsRead ? "" : "list-group-item-info"; // Если isRead равно false, применяем класс "list-group-item-info"
+}
+
+<li class="list-group-item
+    @listItemClass"
+    data-toggle="modal"
+    data-target="#myModal"
+    onclick="readMessage(@Model.Id)">
+    <strong>От кого:</strong> @Model.Sender  <strong>Тема:</strong> @Model.Title  <strong>Дата:</strong> @Model.Date.UtcDateTime
+</li>
+<div class="modal fade" id="myModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <h4 class="modal-title">@Model.Title</h4>
+                <h6 class="modal-subtitle">От: @Model.Sender  |  Дата: @Model.Date.UtcDateTime</h6>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+            <div class="modal-body">
+                <p>@Model.Body</p>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+<script>
+    function readMessage(id) {
+        console.log(id);
+        $.ajax({
+            url: '@Url.Action("ReadMessage", "Message")', // Путь к методу контроллера
+            type: 'POST', // Или 'GET', в зависимости от вашего метода контроллера
+            data: { id: id }, // Данные, передаваемые методу контроллера
+            success: function (result) {
+                // Успешное выполнение запроса
+                // Можно добавить здесь дополнительную логику, если нужно
+            },
+            error: function (xhr, status, error) {
+                // Обработка ошибок, если такие возникли
+            }
+        });
+    }
+</script>

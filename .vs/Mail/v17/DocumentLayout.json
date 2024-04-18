@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorka\\source\\repos\\Mail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\models\\account\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\models\\account\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\views\\message\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\views\\message\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\models\\message\\messageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\models\\message\\messageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\views\\message\\_sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\views\\message\\_sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\models\\message\\sendmessagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\models\\message\\sendmessagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\models\\home\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\models\\home\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92195C26-CD07-4748-9412-6DE93BF78C53}|Mail.Domain\\Mail.Domain.csproj|c:\\users\\gorka\\source\\repos\\mail\\mail.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92195C26-CD07-4748-9412-6DE93BF78C53}|Mail.Domain\\Mail.Domain.csproj|solutionrelative:mail.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92195C26-CD07-4748-9412-6DE93BF78C53}|Mail.Domain\\Mail.Domain.csproj|c:\\users\\gorka\\source\\repos\\mail\\mail.domain\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92195C26-CD07-4748-9412-6DE93BF78C53}|Mail.Domain\\Mail.Domain.csproj|solutionrelative:mail.domain\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|c:\\users\\gorka\\source\\repos\\mail\\webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B94F65-39C2-47E4-8F42-2EF02446ACDB}|WebApplication2\\Mail.MVC.csproj|solutionrelative:webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92195C26-CD07-4748-9412-6DE93BF78C53}|Mail.Domain\\Mail.Domain.csproj|c:\\users\\gorka\\source\\repos\\mail\\mail.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92195C26-CD07-4748-9412-6DE93BF78C53}|Mail.Domain\\Mail.Domain.csproj|solutionrelative:mail.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:07:44.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Models\\Account\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Account\\AccountViewModel.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Models\\Account\\AccountViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Account\\AccountViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:08:35.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:36:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T13:32:58.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwCMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:19:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T13:16:33.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAMAkwCMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:07:25.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T13:24:48.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MessageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Models\\Message\\MessageViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Message\\MessageViewModel.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Models\\Message\\MessageViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Message\\MessageViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAxwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:00:33.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T13:33:23.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T13:33:04.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:23:51.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Models\\Home\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Home\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Models\\Home\\HomeViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Home\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:45:59.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_SendMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Message\\_SendMessage.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Message\\_SendMessage.cshtml",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Message\\_SendMessage.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Message\\_SendMessage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T18:05:40.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Message.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Message\\_Message.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Message\\_Message.cshtml",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Message\\_Message.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Message\\_Message.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T19:02:15.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SendMessageModel.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Models\\Message\\SendMessageModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Message\\SendMessageModel.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Models\\Message\\SendMessageModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Message\\SendMessageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:06:17.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\Mail.Domain\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "Mail.Domain\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\Mail.Domain\\Entities\\Message.cs",
+              "RelativeToolTip": "Mail.Domain\\Entities\\Message.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:38:24.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\Mail.Domain\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Mail.Domain\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\Mail.Domain\\ApplicationContext.cs",
+              "RelativeToolTip": "Mail.Domain\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:38:43.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T12:46:57.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:50:49.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gorka\\source\\repos\\Mail\\Mail.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Mail.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\gorka\\source\\repos\\Mail\\Mail.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Mail.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:38:14.294Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

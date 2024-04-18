@@ -1,0 +1,29 @@
+﻿@model Mail.MVC.Models.Message.SendMessageModel
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <h2 class="text-center mb-4">Отправить сообщение</h2>
+            <form asp-controller="Message" asp-action="SendMessage" method="post">
+                <div class="form-group">
+                    <label for="title">Заголовок:</label>
+                    <input type="text" class="form-control" id="title" name="Title" asp-for="Title" required>
+                </div>
+                <div class="form-group">
+                    <label for="receiver">Получатель:</label>
+                    <input type="text" class="form-control" id="Reciever" name="Reciever" asp-for="Reciever" required>
+                </div>
+                <div class="form-group">
+                    <label for="body">Текст сообщения:</label>
+                    <textarea class="form-control" id="body" name="Body" rows="5" asp-for="Body" required></textarea>
+                </div>
+                <input type="hidden" name="SenderId" asp-for="SenderId" value="@Model.SenderId">
+                <button type="submit" class="btn btn-primary mt-2">Отправить</button>
+            </form>
+            @if (!string.IsNullOrEmpty(ViewBag.Error))
+            {
+                <div class="text-danger mt-2">@ViewBag.Error</div>
+            }
+
+        </div>
+    </div>
+</div>

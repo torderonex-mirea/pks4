@@ -1,0 +1,40 @@
+﻿@using Mail.MVC.Models.Account;
+@model RegisterViewModel;
+
+
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <h2 class="mt-5 mb-4 text-center">Регистрация</h2>
+                <form asp-action="Register" asp-controller="Account" method="post">
+                    <div class="form-group">
+                        <label asp-for="Name">ФИО:</label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Login">Логин:</label>
+                        <input asp-for="Login" class="form-control" />
+                        <span asp-validation-for="Login" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password">Пароль:</label>
+                        <input asp-for="Password" type="password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PasswordRepeat">Повтор пароля:</label>
+                        <input asp-for="PasswordRepeat" type="password" class="form-control" />
+                        <span asp-validation-for="PasswordRepeat" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Зарегистрироваться</button>
+                </form>
+                <a href="/Account/Index">Вход</a>
+                <div class="text-danger mb-2">@ViewBag.Error</div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
